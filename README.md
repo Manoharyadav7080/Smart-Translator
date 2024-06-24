@@ -1,2 +1,1 @@
-# Smart-Translator
- A smart translator which is used for the idioms and phrases.
+Visit to our app - https://smart-translator-djzwlyxwc6iskdznfakjdx.streamlit.app/
